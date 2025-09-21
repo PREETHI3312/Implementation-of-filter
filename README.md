@@ -115,30 +115,30 @@ plt.show()
 </br>
 
 ### i) Using Averaging Filter
-<img width="419" height="335" alt="image" src="https://github.com/user-attachments/assets/3ec67779-4a52-4501-9692-e3452e09c741" />
+<img width="413" height="540" alt="image" src="https://github.com/user-attachments/assets/85188378-6fb6-4059-990f-5dfbd768a905" />
 
 
 ### ii)Using Weighted Averaging Filter
-<img width="633" height="502" alt="image" src="https://github.com/user-attachments/assets/0e21bba0-821c-489c-acb6-7b0429b9cec3" />
+<img width="377" height="500" alt="image" src="https://github.com/user-attachments/assets/0788fbb9-6b12-4a3f-8e82-49a9cda3ac46" />
 
 
 ### iii)Using Gaussian Filter
-<img width="631" height="506" alt="image" src="https://github.com/user-attachments/assets/6159af9d-223a-45c3-947a-c6d700fe1ae1" />
+<img width="380" height="489" alt="image" src="https://github.com/user-attachments/assets/3ef24cab-e779-47fa-b043-77b47c2b84da" />
 
 
 ### iv) Using Median Filter
-<img width="633" height="497" alt="image" src="https://github.com/user-attachments/assets/703feb5f-2f00-47d3-ae03-2f35252026cd" />
+<img width="373" height="500" alt="image" src="https://github.com/user-attachments/assets/b6e1f993-30b9-429a-bbc0-c07223f209d6" />
 
 
 ### 2. Sharpening Filters
 </br>
 
 ### i) Using Laplacian Kernal
-<img width="636" height="499" alt="image" src="https://github.com/user-attachments/assets/b2c3ee1a-41f8-450c-a554-e352b4471d44" />
+<img width="371" height="498" alt="image" src="https://github.com/user-attachments/assets/75c81189-f722-4c6f-a234-674bd4b4bd38" />
 
 
 ### ii) Using Laplacian Operator
-<img width="629" height="495" alt="image" src="https://github.com/user-attachments/assets/39f9e710-3573-4ea3-bff9-e1c77cd4ff7c" />
+<img width="377" height="491" alt="image" src="https://github.com/user-attachments/assets/96f74a9b-90ab-4390-847e-2be0f9356925" />
 
 
 ## Result:
